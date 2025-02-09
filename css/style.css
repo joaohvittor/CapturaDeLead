@@ -1,0 +1,20 @@
+body {
+    background: linear-gradient(135deg, #4CAF50, #2E7D32);
+    color: white;
+}
+.container {
+    max-width: 500px;
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    color: black;
+    margin-top: 50px;
+}
+.btn-custom {
+    background-color: #4CAF50;
+    border: none;
+}
+.btn-custom:hover {
+    background-color: #388E3C;
+}
